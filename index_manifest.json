@@ -1,0 +1,34 @@
+﻿{
+    "schema":  1,
+    "generated_utc":  "2026-05-25T10:19:16.1797904Z",
+    "firmware":  {
+                     "hmi":  {
+                                 "name":  "HMI",
+                                 "manifest_url":  "https://raw.githubusercontent.com/Noput/stano-firmware-releases/main/hmi/manifest.json",
+                                 "version":  "1.0.1",
+                                 "size":  4601584,
+                                 "sha256":  "85864bb5a20b80a4d3bb00159b49d9c436c4ae0ea34c8a07b4d6985967e738d7"
+                             },
+                     "logic":  {
+                                   "name":  "Logic controller",
+                                   "manifest_url":  "https://raw.githubusercontent.com/Noput/stano-firmware-releases/main/logic/manifest.json",
+                                   "version":  "2.31f",
+                                   "size":  385496,
+                                   "sha256":  "7981f3a6e20de06e77d9ccefe68d3202ebd99394f51655dc3cd6afd0e528647b"
+                               },
+                     "stepper":  {
+                                     "name":  "Stepper controller",
+                                     "manifest_url":  "https://raw.githubusercontent.com/Noput/stano-firmware-releases/main/stepper/manifest.json",
+                                     "version":  "2.61f",
+                                     "size":  158820,
+                                     "sha256":  "60f057e4c226bcec73533ae1d54801721d1aaa26d63b202aeef793d820826974"
+                                 },
+                     "gpio":  {
+                                  "name":  "GPIO controller",
+                                  "manifest_url":  "https://raw.githubusercontent.com/Noput/stano-firmware-releases/main/gpio/manifest.json",
+                                  "version":  "2.0f",
+                                  "size":  122872,
+                                  "sha256":  "564464f7cae6be08db9b5cde79b776d0dd3217152c8c32fd2394ff1da8ff704b"
+                              }
+                 }
+}
