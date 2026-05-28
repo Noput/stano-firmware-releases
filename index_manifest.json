@@ -12,9 +12,9 @@
                      "logic":  {
                                    "name":  "Logic controller",
                                    "manifest_url":  "https://raw.githubusercontent.com/Noput/stano-firmware-releases/main/logic/manifest.json",
-                                   "version":  "2.31f",
-                                   "size":  385496,
-                                   "sha256":  "7981f3a6e20de06e77d9ccefe68d3202ebd99394f51655dc3cd6afd0e528647b"
+                                   "version":  "2.32f",
+                                   "size":  386804,
+                                   "sha256":  "11301470ddf101ae873d624eef6e2b03808f511016b48b6544d5bc68ee0d0214"
                                },
                      "stepper":  {
                                      "name":  "Stepper controller",
