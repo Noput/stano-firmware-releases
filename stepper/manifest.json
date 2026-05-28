@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2.61f",
-    "url":  "https://raw.githubusercontent.com/Noput/stano-firmware-releases/main/stepper/stepper_driver2.61f.bin",
-    "sha256":  "60f057e4c226bcec73533ae1d54801721d1aaa26d63b202aeef793d820826974",
-    "size":  158820
+    "version":  "2.71f",
+    "url":  "https://raw.githubusercontent.com/Noput/stano-firmware-releases/main/stepper/stepper_driver2.71f.bin",
+    "sha256":  "35993f4d1f6a2dada21b3dda7ea6a0df384682f71b6bfc56aa7f9186d6517bce",
+    "size":  159268
 }
